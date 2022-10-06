@@ -1,38 +1,47 @@
-## qianduan
+> 分享是最高级的浪漫
 
-#### 介绍
-学习笔记
-HTML、CSS、JavaScript、Vue、React.....
+1. ┏(\^ω\^)=☞ 写文章的初衷是因方便日后查阅知识点
+2. 文章如有任何错误，大家可评论或私信告知，我一定改。໒꒰ྀི∩˃ ᵕ ˂∩꒱ྀི১
+3. 学无止境，吾与诸位同行，保持热爱，一起加油！
+4. 所有笔记同步至[GitHub](https://github.com/shiqiverycool/Note)。
 
-#### 软件架构
-软件架构说明
+2022-10-06：所有文章进行审核，不合格的文章进行下架+整改(ing)
 
+# 文章目录
 
-#### 安装教程
+## 前端三剑客
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### HTML
 
-#### 使用说明
+| 文章名                             | 创作日期   | 更新日期   |
+| ---------------------------------- | ---------- | ---------- |
+| 《HTML—元素的居中方式(水平+垂直)》 | 2021-01-19 | 2022-10-06 |
+| 《HTML—常用标签与转字义字符》      | 2022-03-05 | 2022-10-06 |
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### CSS
 
-#### 参与贡献
+### JavaScript
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## 前端框架
 
+### Vue
 
-#### 特技
+### React
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 前端生态
+
+### 前端开发小技巧
+
+### 前端开发小工具
+
+### TypeScript
+
+### webpack
+
+## 编程工具
+
+## 计算机网络
+
+## 计算机基础
+
+## 超好用软件推荐
